@@ -1,0 +1,2 @@
+Library to control a HD44780 based LCD display interfaced by a I2C I/O expander IC [specifically Adafruit's serial backpack].
+It needs my I2C library to work.
